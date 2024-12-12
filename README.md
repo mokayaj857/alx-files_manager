@@ -1,4 +1,4 @@
-# 0x04. Files Manager
+# 0x04. Files Manager..
 
 A back-end project utilizing technologies such as `JavaScript`, `ES6`, `NoSQL`, `MongoDB`, `Redis`, `NodeJS`, `ExpressJS` and `Kue`.
 
